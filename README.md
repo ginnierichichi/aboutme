@@ -3,7 +3,7 @@
 I am a passionately curious software developer, and an open source enthusiast✨.
 
 <ul>
-  <li> 🌱 I’m a very passionate about learning, and love to share resources and expertise with the dev community</li>
+  <li> 🌱 I’m very passionate about learning, and love to share resources and expertise with the dev community</li>
   <li> 🔭 I’m currently working for <a href="https://www.scolmore.com/">Scolmore International Ltd</a></li>
   <li> 📫 How to reach me: <a href="mailto:ginnie.richichi@gmail.com">ginnie.richichi@gmail.com</a> & I tweet sometimes.. <a href="https://twitter.com/ginnierichichi">@ginnierichichi</a></li>
   <li> 🎥 Hoping to start a youtube account for T.A.L.L stack tutorials</li>
