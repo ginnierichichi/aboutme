@@ -1,6 +1,6 @@
 <h1>Hi 👋 I'm Ginnie Richichi</h1>
 
-I am a passionately curious software developer, and an open source enthusiast✨.
+<!-- I am a passionately curious software developer, and an open source enthusiast✨.
 
 <ul>
   <li> 🌱 I’m very passionate about learning, and love to share resources and expertise with the dev community</li>
@@ -9,7 +9,7 @@ I am a passionately curious software developer, and an open source enthusiast✨
   <li> 🎥 Hoping to start a youtube account for T.A.L.L stack tutorials</li>
   <li> 😄 Pronouns: She/Her</li>
   <li> ⚡ Fun fact: I love snowboarding and when im not coding, i am generally spend my time with my horse 🐴</li>
- </ul>
+ </ul> -->
  
 <h2>Find me around the web 🌍 </h2>
  
