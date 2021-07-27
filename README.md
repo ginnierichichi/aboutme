@@ -8,7 +8,7 @@ I am a passionately curious software developer, and an open source enthusiast✨
   <li> 📫 How to reach me: <a href="mailto:ginnie.richichi@gmail.com">ginnie.richichi@gmail.com</a> & I tweet sometimes.. <a href="https://twitter.com/ginnierichichi">@ginnierichichi</a></li>
   <li> 🎥 Hoping to start a youtube account for T.A.L.L stack tutorials</li>
   <li> 😄 Pronouns: She/Her</li>
-  <li> ⚡ Fun fact: I love snowboarding and when not coding, spend my time with my horse 🐴</li>
+  <li> ⚡ Fun fact: I love snowboarding and when im not coding, i am generally spend my time with my horse 🐴</li>
  </ul>
  
 <h2>Find me around the web 🌍 </h2>
