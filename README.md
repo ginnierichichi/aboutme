@@ -21,7 +21,7 @@ I am a passionately curious software developer, and an open source enthusiast✨
     <a href="https://www.linkedin.com/in/virginia-richichi-355940171/">LinkedIn</a>
   </li>
   <li>
-    <a href="https://www.instagram.com/ginnierichichi/">Instagram</a>
+    <a href="#">Instagram</a>
   </li>
   <li>
     <a href="https://www.youtube.com/channel/UC5Aw7u1Gfc7PLp-2T4diwQw">Youtube</a>
