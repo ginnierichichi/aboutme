@@ -4,9 +4,10 @@ I am a passionately curious software developer, and an open source enthusiast✨
 
 <ul>
   <li> 🌱 I’m very passionate about learning, and love to share resources and expertise with the dev community</li>
-  <li> 🔭 I’m currently working for <a href="https://www.datatank.co.uk/">Datatank</a></li> 
+  <li> 🔭 I’m currently working for <a href="https://schooladvice.co.uk/">Schools Advisory Service</a></li> 
   <li> 📫 How to reach me: <a href="mailto:ginnie.richichi@gmail.com">ginnie.richichi@gmail.com</a> & I tweet sometimes.. <a href="https://twitter.com/ginnierichichi">@ginnierichichi</a></li>
   <li> 🎥 Hoping to start a youtube account for T.A.L.L stack tutorials</li>
+  <li> Current Stack: React.js / Vue.js with Laravel </li>
   <li> 😄 Pronouns: She/Her</li>
   <li> ⚡ Fun fact: I love snowboarding and photography. When I'm not coding, I am generally spending time with my horse 🐴</li>
  </ul>
